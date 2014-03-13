@@ -1,0 +1,25 @@
+{
+    "name": "ftec-faculdades/dti-entity",
+    "description": "Módulo responsável pelas classes entidades",
+    "type": "library",
+    "license": "MIT",
+    "keywords": [
+        "module",
+        "zf2",
+        "dti",
+		"doctrine",
+		"entity"
+    ],
+    "homepage": "https://github.com/ftec-faculdades/DTIEntity",
+    "authors": [
+        {
+            "name": "Sérgio Ernane Munhós Hermes",
+            "email": "sergiohermes@ftec.com.br"
+        }
+    ],
+    "autoload": {
+        "psr-0": {
+            "DTIEntity": "src/"
+        }
+    }
+}
